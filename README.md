@@ -7,17 +7,18 @@
 </div>
 
 ---
+
 <div align="center">
   <a href="https://github.com/seolyam">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=seolyam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=seolyam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   </a>
   <a href="https://github.com/seolyam">
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=seolyam&theme=tokyonight&hide_border=true" />
+    <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=seolyam&theme=tokyonight&hide_border=true" />
   </a>
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/seolyam/" target="_blank">
+  <a href="https://www.linkedin.com/in/seolyam/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
   <a href="mailto:leeyam.dev@gmail.com">
